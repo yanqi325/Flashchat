@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063168469540",
+    "project_id": "flash-chat-b7752",
+    "storage_bucket": "flash-chat-b7752.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063168469540:android:1ed5166af7df21015906b1",
+        "android_client_info": {
+          "package_name": "co.Yanqi.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0HY8dCNeOKPvmPtQMfqvNy_NbGStv1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
